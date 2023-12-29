@@ -1,0 +1,8 @@
+body{
+    background:
+        linear-gradient(rgb(112, 18, 18), transparent),
+        linear-gradient(to top left, rgb(135, 152, 135), transparent),
+        linear-gradient(to top right, rgb(0, 0, 255), transparent);
+    background-blend-mode: screen;
+    /* background: linear-gradient(90deg, #ff0000, rgba(30, 255, 0, 0.641)); */
+}
